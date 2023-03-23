@@ -1,2 +1,2 @@
-# shop-flask-backend
-api rest de tienda virtual con flask
+# api-shop-flask
+api rest de una tienda virtual con flask
